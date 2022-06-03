@@ -10,9 +10,9 @@ I'm a passionate FrontEnd developer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Hobasa](https://hobasa.com/)
+- 💼 Tech Lead at [Hobasa](https://hobasa.com/)
 
-- ❤️ I love writing React , Javascript and building web ,mobile , desktop and chrome applications
+- ❤️ I love playing around with React, Redux, Javascript, css, HTML. I love building web,mobile and desktop applications.
 
 - 💬 Ask me about anything [here](https://github.com/amitpatil321/amitpatil321/issues)
 
