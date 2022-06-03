@@ -8,11 +8,15 @@
 
 I'm a passionate FrontEnd developer from India 🇮🇳
 
+I have 14+ years of experience creating web applications using a variety of technologies like PHP, Javascript, WordPress, Modx, Codeignitor among others. I have a strong design affinity and strong prowess in Frontend Engineering using React, Redux, CSS, SASS and Javascript to markup beautiful Perfect Pixel layouts UI designs, and I advocate for best practices in terms of clean code, performance and the W3C Standards.
+
 **About me**
 
 - 💼 Tech Lead at [Hobasa](https://hobasa.com/)
 
 - ❤️ I love playing around with React, Redux, Javascript, css, HTML. I love building web,mobile and desktop applications.
+
+- 🎸 In my free time I play computer games, Pencil drawing and travelling
 
 - 💬 Ask me about anything [here](https://github.com/amitpatil321/amitpatil321/issues)
 
