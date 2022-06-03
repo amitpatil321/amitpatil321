@@ -20,7 +20,7 @@ I have 14+ years of experience creating web applications using a variety of tech
 
 - 💬 Ask me about anything [here](https://github.com/amitpatil321/amitpatil321/issues)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img alt="react" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -28,9 +28,10 @@ I have 14+ years of experience creating web applications using a variety of tech
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ionic/ionic.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 
-| <a href="https://github.com/amitpatil321/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amitpatil321&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Amit's github stats" /></a> | <a href="https://github.com/amitpatil321/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puruvj&show_icons=true&count_private=true" /></a> |
+| <a href="https://github.com/amitpatil321/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amitpatil321&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Amit's github stats" /></a> | <a href="https://github.com/amitpatil321/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puruvj&show_icons=true&count_private=true&hide_border=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <a href="https://twitter.com/amitspatil">
