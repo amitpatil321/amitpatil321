@@ -24,15 +24,16 @@ I have 14+ years of experience creating web applications using a variety of tech
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html5/html5.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ionic/ionic.png"></code>
 
-| <a href="https://github.com/amitpatil321/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amitpatil321&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/amitpatil321/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpatil321&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/amitpatil321/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amitpatil321&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Amit's github stats" /></a> 
+| <a href="https://github.com/amitpatil321/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puruvj&show_icons=true&count_private=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/amitpatil321/amitpatil321/master/assets/twitter.svg" />
+<a href="https://twitter.com/amitspatil">
+  <img align="right" alt="Amit Patil | Twitter" width="21px" src="https://raw.githubusercontent.com/amitpatil321/amitpatil321/master/assets/twitter.svg" />
 </a>
