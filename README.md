@@ -42,7 +42,7 @@ I'm a passionate FrontEnd developer from India 🇮🇳
 
   
 
-I have 14+ years of experience creating web applications using a variety of technologies like **React, Redux, Angular, Nodejs, Javascript, PHP, WordPress, Modx, Codeignitor**. I have a strong design affinity and strong prowess in **Frontend** Engineering using **React, Redux, CSS, SASS** and **Javascript** to markup beautiful Perfect Pixel UI designs, and I advocate for best practices in terms of clean code, performance and the W3C Standards.
+I have 14+ years of experience creating web applications using a variety of technologies like **React, Redux, Angular, Nodejs, Expressjs, Javascript, PHP, WordPress, Modx, Codeignitor**. I have a strong design affinity and strong prowess in **Frontend** Engineering using **React, Redux, CSS, SASS** and **Javascript** to markup beautiful Perfect Pixel UI designs, and I advocate for best practices in terms of clean code, performance and the W3C Standards.
 
   
 
