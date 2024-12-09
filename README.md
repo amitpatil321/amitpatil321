@@ -28,8 +28,13 @@
 ![Electron.js](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-1890FF?style=flat&logo=antdesign&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![Sentry](https://img.shields.io/badge/-Sentry-332F41?style=flat&logo=sentry&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
   
 <!--  
 <img alt="react" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
